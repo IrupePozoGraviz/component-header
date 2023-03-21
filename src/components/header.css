@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    background-color: #151414;
+    height: 550px;
+}
+
+nav ul {
+    display: flex;
+    color: #FFF5D1;
+    gap: 69px;
+    list-style: none;
+}
+
+h1 {
+    color: #FFFFFF;
+    align-self: flex-end;
+    max-width: 1440px;
+    font-size: 100px;
+    line-height: 122.02px;
+    margin-top: 239px;
+    margin-left: 129px;
+}
